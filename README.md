@@ -1,2 +1,2 @@
 ## ThemeClock
-This is a Basic Level Site.
+This is a Basic Level Site of.
