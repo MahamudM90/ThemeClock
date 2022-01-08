@@ -1,2 +1,3 @@
-## ThemeClock
-This is a Basic Level WebSite of Theme-clock.
+# THEME-CLOCK
+This is a Theme-Clock.
+### [Live Site](https://mahamudm90.github.io/THEME-CLOCK/)
