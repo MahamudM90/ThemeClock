@@ -1,3 +1,3 @@
 # THEME-CLOCK
-This is a Theme-Clock.
+This is the Theme-Clock of light & dark mode.
 ### [Live Site](https://mahamudm90.github.io/THEME-CLOCK/)
